@@ -21,3 +21,4 @@ console.log(`
 // Console log type 2
 console.log("Firse Name :" +firstName);
 console.log("Last Name  :" + lastName);
+console.log("State :" + state);
